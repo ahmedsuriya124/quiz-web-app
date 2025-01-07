@@ -1,0 +1,28 @@
+.course-btn{
+    color: #ffc800;
+    background-color: #003459;
+    font-weight: bold;
+    font-size: 1.5rem;
+    transition: 0.3s;
+}
+.course-btn:hover{
+    background-color: #04406b;
+}
+.quiz-heading{
+    color: #ffc800;
+}
+
+.mainPage.active{
+    display: none;
+}
+
+.next-Btn{
+    color: #ffc800;
+    background-color: #003459;
+}
+.quizContainer{
+    display: none;
+}
+.scoreBoard{
+    display: none;  
+}
